@@ -1,0 +1,64 @@
+h1{font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    text-align: center;
+    color: brown;
+
+}
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 15px;
+}
+ul a.navigation{ display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around; 
+}
+
+nav ul li a{font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+    padding-right: 300px;
+}
+#navigation1:hover{color: yellowgreen;
+
+}
+#navigation2:hover{
+    font-size: xx-large;
+}
+.flexcontainer1{display: inline-flex;
+margin-right: 10px;
+flex-direction: column;
+padding-left: 550px;
+}
+
+#image{
+    width: 400px;
+    height: inherit;
+}
+#image1{
+    width: 400px;
+    height: inherit;
+    padding-top: 20px;
+}
+#image1:hover{
+    width: 600px;
+    height: inherit;
+}
+#image2{
+    width: 400px;
+    height: inherit;
+    padding-top: 20px;
+}
+#image3{
+    width: 400px;
+    height: inherit;
+    padding-top: 20px;
+}
+#image4{
+    width: 400px;
+    height: inherit;
+    padding-top: 20px;
+}

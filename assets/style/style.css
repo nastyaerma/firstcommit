@@ -1,0 +1,105 @@
+h1{background-color: rgb(212, 212, 212);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    font-weight: 600;
+    color: black;
+    margin: 0;
+    padding: 20px;
+    padding-left: 650px;
+    position: static;
+    border-left: 50px;
+}
+
+.class{
+    display: inline-flex;
+    margin: 0;
+    justify-content: center;
+    
+}
+article{background-color: rgba(251, 236, 205, 0.999);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    font-weight: 600;
+    color: black;
+    padding: 20px;
+    padding-left: 150px;
+    padding-bottom: 220px;
+    border-left: 50px;
+    width: 700px;
+    height: 100px;
+
+
+}
+
+
+.flex_container{background-color: rgba(255, 212, 126, 0.999);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    font-weight: 600;
+    color: black;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-left: -250px;
+    display: flex;
+    align-items: flex-end;
+    width: 300px;
+    height: 10px;
+    padding: 30px;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+.flex_container1{background-color: rgba(255, 212, 126, 0.999);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    font-weight: 600;
+    color: black;
+    border: 100px;
+    margin-top: 200px;
+    margin-left: -500px;
+    display: inline-block;
+    width: 500px;
+    height: 10px;
+    padding: 30px;
+    text-align: center;
+}
+
+.name{
+    display: inline-flex;
+
+}
+
+
+aside{background-color: rgba(178, 224, 193, 0.999);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    font-weight: 600;
+    color: black;
+    margin: 0;
+    padding: 20px;
+    padding-left: 20px;
+    display: block;
+    width: 626px;
+    height: 300px;
+
+
+
+}
+.flex_container2{
+    background-color: rgb(212, 212, 212);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    font-weight: 600;
+    color: black;
+    padding: 20px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-left: 50px;
+    width: 1496px;
+
+
+
+
+}

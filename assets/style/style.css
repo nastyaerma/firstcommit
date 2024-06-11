@@ -16,7 +16,7 @@ h1{background-color: rgb(212, 212, 212);
     justify-content: center;
     
 }
-.article{background-color: rgba(251, 236, 205, 0.999);
+article{background-color: rgba(251, 236, 205, 0.999);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px ;
     font-weight: 600;
@@ -71,7 +71,7 @@ h1{background-color: rgb(212, 212, 212);
 }
 
 
-.aside{background-color: rgba(178, 224, 193, 0.999);
+aside{background-color: rgba(178, 224, 193, 0.999);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px ;
     font-weight: 600;
